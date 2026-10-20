@@ -6,7 +6,9 @@ layout: default
 
 Hi! I am a first year Language Technology student at the University of Helsinki. In my free time I like to do sports and learn languages. I play in a basketball team and sing in a choir. I can also solve a Rubik's Cube and juggle with up to four balls.
 
-## Find me on
+## Find me
+
+[CV](assets/documents/CV.pdf)
 
 [GitHub](https://github.com/melaniehackel)
 
