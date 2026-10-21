@@ -1,5 +1,6 @@
 ---
 layout: default
+logo: /assets/img/cmd.png
 ---
 
 ## Introduction

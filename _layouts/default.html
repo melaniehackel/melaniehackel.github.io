@@ -16,9 +16,11 @@
       <header>
         <h1>{{site.title}}</h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        {% assign page_logo = page.logo | default: site.logo %}
+
+	{% if page_logo %}
+  	  <img src="{{ page_logo | relative_url }}" alt="Logo" />
+	{% endif %}
 
       </header>
       <section>

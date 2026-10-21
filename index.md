@@ -1,5 +1,6 @@
 ---
 layout: default
+logo: /assets/img/me.jpg
 ---
 
 ## Introduction
