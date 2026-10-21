@@ -6,8 +6,8 @@ layout: default
 
 In this course, we learned how to work with the command line.
 
-# Week 1
-In the first week, I learned the basics of the command line. I learned the following commands:
+### Week 1
+In the first week, I learned the basics of the command line and the following commands:
 
 | Command | What it does |
 | ------- | ------------ |
@@ -23,20 +23,38 @@ In the first week, I learned the basics of the command line. I learned the follo
 
 This week really helped me get more comfortable working on the command line and quickly switching between directories.
 
-# Week 2
+### Week 2
 
-In the second week, I learned about different character encodings, basic text file operations (counting, sorting, duplicate removal) and the sed-command.
+In the second week, I learned about different character encodings, basic text file operations (counting, sorting, duplicate removal), the sed-command and how to pipe commands.
 
-With this knowledge, I then worked on the following linguistic tasks:
+With this knowledge, I worked on the following linguistic tasks:
 - generating a frequency list from a text file
 - converting a text into sentence-per-line format
 - create a list of n-grams from a text file
 
 This week was definitely harder than the first week, but it was really nice to work on some linguistic applications.
 
-# Week 3
+### Week 3
+
+During this week, I learned how to write scripts, use sudo and pip to install packages and work in a virtual environment in Python.
+
+I learned a lot during this week, that I did not know before, like working in a virtual environment. There were some technical issues, but they could all get fixed.
 
 
-# Week 4
+### Week 4
 
-One list, one image, one table
+In the last week, I learned how to connect to a remote server using scp. I also worked with git using the following commands:
+
+- git clone
+- git pull
+- git add
+- git commit -m
+- git push
+- git status
+- git checkout
+
+I have worked with git before, so much of it was just repetition. But I have never connected to a server before, so that was new knowledge.
+
+### Final project
+
+Making this website is the final project of the course. I used Jekyll to edit the page. It was good practice to use git in the workflow and it is just very nice to have my own website now :)
